@@ -110,13 +110,13 @@ textarea,
   animation: settle 1.95s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
-.delay-1 { animation-delay: 0.3s; }
-.delay-2 { animation-delay: 0.9s; }
-.delay-3 { animation-delay: 1.5s; }
-.delay-4 { animation-delay: 2.1s; }
-.delay-5 { animation-delay: 2.6s; }
-.delay-6 { animation-delay: 3.1s; }
-.delay-7 { animation-delay: 3.6s; }
+.delay-1 { animation-delay: 0.4s; }
+.delay-2 { animation-delay: 1.2s; }
+.delay-3 { animation-delay: 2.0s; }
+.delay-4 { animation-delay: 2.8s; }
+.delay-5 { animation-delay: 3.6s; }
+.delay-6 { animation-delay: 4.4s; }
+.delay-7 { animation-delay: 5.2s; }
 
 .gap-after-space { height: 2.55rem; }
 .gap-after-first-linger { height: 2.05rem; }
