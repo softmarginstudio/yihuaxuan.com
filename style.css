@@ -18,7 +18,7 @@ html, body {
 }
 
 body {
-  font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-family: "DM Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Helvetica Neue", monospace;
   background:
     radial-gradient(1250px 900px at 22% 12%, rgba(255,255,255,0.30), transparent 60%),
     radial-gradient(980px 780px at 74% 84%, rgba(221,223,226,0.18), transparent 64%),
